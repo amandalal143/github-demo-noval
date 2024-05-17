@@ -1,0 +1,40 @@
+[File Format],[1.195D]
+[Comment Group No.],1
+[Column No. / Remark],"1 "
+[Windows Font],"None"
+[Character Set]
+[Kanji Region],1,[Color],[Reverse],[Blink],[Style],[Solid],[12dot HQ Gothic],[12dot HQ Mincho],[16dot HQ Gothic],[16dot HQ Mincho]
+1,"EMERGENCY FAULT",#FFFFFF,No,None,,,0,0,0,0
+2,"AIR PRESSURE FAULT",#FFFFFF,No,None,,,0,0,0,0
+3,"FEED CYLINDER TIME OVER",#FFFFFF,No,None,,,0,0,0,0
+4,"FEED CYLINDER READ SWITCH FAULT",#FFFFFF,No,None,,,0,0,0,0
+5,"MATERIAL CYLINDER TIME OVER",#FFFFFF,No,None,,,0,0,0,0
+6,"MATERIAL CYLINDER READ SWITCH FAULT",#FFFFFF,No,None,,,0,0,0,0
+7,"CLAMP CYLINDER TIME OVER",#FFFFFF,No,None,,,0,0,0,0
+8,"CLAMP CYLINDER READ SWITCH FAULT",#FFFFFF,No,None,,,0,0,0,0
+9,"AXIS 1 SERVO ALARM",#FFFFFF,No,None,,,0,0,0,0
+10,"SPINDLE VFD ALARM",#FFFFFF,No,None,,,0,0,0,0
+11,"MACHINE HOME REQUIRED",#FFFFFF,No,None,,,0,0,0,0
+12,"AXIS 1 FORWARD LIMIT",#FFFFFF,No,None,,,0,0,0,0
+13,"AXIS 1 REVERSE LIMIT",#FFFFFF,No,None,,,0,0,0,0
+14,"",#FFFFFF,No,None,,,0,0,0,0
+15,"",#FFFFFF,No,None,,,0,0,0,0
+16,"",#FFFFFF,No,None,,,0,0,0,0
+17,"",#FFFFFF,No,None,,,0,0,0,0
+18,"",#FFFFFF,No,None,,,0,0,0,0
+19,"",#FFFFFF,No,None,,,0,0,0,0
+20,"",#FFFFFF,No,None,,,0,0,0,0
+21,"",#FFFFFF,No,None,,,0,0,0,0
+22,"",#FFFFFF,No,None,,,0,0,0,0
+23,"",#FFFFFF,No,None,,,0,0,0,0
+24,"",#FFFFFF,No,None,,,0,0,0,0
+25,"",#FFFFFF,No,None,,,0,0,0,0
+26,"",#FFFFFF,No,None,,,0,0,0,0
+27,"",#FFFFFF,No,None,,,0,0,0,0
+28,"",#FFFFFF,No,None,,,0,0,0,0
+29,"",#FFFFFF,No,None,,,0,0,0,0
+30,"",#FFFFFF,No,None,,,0,0,0,0
+31,"",#FFFFFF,No,None,,,0,0,0,0
+32,"",#FFFFFF,No,None,,,0,0,0,0
+33,"",#FFFFFF,No,None,,,0,0,0,0
+34,"",#FFFFFF,No,None,,,0,0,0,0

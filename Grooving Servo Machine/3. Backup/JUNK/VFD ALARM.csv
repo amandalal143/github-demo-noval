@@ -1,0 +1,28 @@
+[File Format],[1.195D]
+[Comment Group No.],3
+[Column No. / Remark],"1 "
+[Windows Font],"None"
+[Character Set]
+[Kanji Region],1,[Color],[Reverse],[Blink],[Style],[Solid],[12dot HQ Gothic],[12dot HQ Mincho],[16dot HQ Gothic],[16dot HQ Mincho]
+1," Over-current (oc) ",#FFFFFF,No,None,,,0,0,0,0
+2,"",#FFFFFF,No,None,,,0,0,0,0
+3,"Overheat (oH)",#FFFFFF,No,None,,,0,0,0,0
+4,"Drive overload (oL) ",#FFFFFF,No,None,,,0,0,0,0
+5,"Motor overload1 (oL1) ",#FFFFFF,No,None,,,0,0,0,0
+6,"External fault (EF)",#FFFFFF,No,None,,,0,0,0,0
+7,"CPU failure (cF1)",#FFFFFF,No,None,,,0,0,0,0
+8,"CPU or analog circuit failure (cF3) ",#FFFFFF,No,None,,,0,0,0,0
+9,"Hardware protection failure (HPF)",#FFFFFF,No,None,,,0,0,0,0
+10,"Current exceeds 2 times rated current during accel (ocA) ",#FFFFFF,No,None,,,0,0,0,0
+11," Current exceeds 2 times rated current during decel (ocd)",#FFFFFF,No,None,,,0,0,0,0
+12,"Current exceeds 2 times rated current during steady state operation (ocn)",#FFFFFF,No,None,,,0,0,0,0
+13,"Ground Fault (GF) ",#FFFFFF,No,None,,,0,0,0,0
+14,"Low voltage (Lv) ",#FFFFFF,No,None,,,0,0,0,0
+15,"Reserved ",#FFFFFF,No,None,,,0,0,0,0
+16,"CPU failure 1 (cF2",#FFFFFF,No,None,,,0,0,0,0
+17," Base block",#FFFFFF,No,None,,,0,0,0,0
+18,"Overload (oL2) ",#FFFFFF,No,None,,,0,0,0,0
+19,"Auto accel/decel failure (cFA) ",#FFFFFF,No,None,,,0,0,0,0
+20,"Software protection enable (codE) ",#FFFFFF,No,None,,,0,0,0,0
+21,"",#FFFFFF,No,None,,,0,0,0,0
+22,"",#FFFFFF,No,None,,,0,0,0,0
